@@ -17,4 +17,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Live Demo (used Github Page) :
 
-- [https://nitin-daddikar.github.io/Brain-Vita-Game/](https://nitin-daddikar.github.io/Brain-Vita-Game/)

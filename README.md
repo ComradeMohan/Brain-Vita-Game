@@ -17,3 +17,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Live Demo (used Github Page) :
 
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-Brain-Vita-Game/count.svg" />
+</p>
